@@ -1,3 +1,12 @@
 | задача | название  | noteflight | последнее повторение |
 |--------|-----------|------------|----------------------|
-| 25     | Страдания |[тыц](https://www.noteflight.com/scores/view/cd6c485020e74a6a2b9e9386132bcdcbba02f1ce)| 15.07.2015 |
+| 25     
+| Страдания 
+| [тыц](https://www.noteflight.com/scores/view/cd6c485020e74a6a2b9e9386132bcdcbba02f1ce)
+| 15.07.2015 
+|
+| 26 
+| Пойду ль, выйду ль я 
+| [тыц](https://www.noteflight.com/scores/view/2b6668b91ebea17bae342e543c2e203d6757f5d0) 
+| 15.07.2015 
+|
